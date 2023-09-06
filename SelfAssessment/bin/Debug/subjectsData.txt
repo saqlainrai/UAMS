@@ -1,0 +1,7 @@
+PF,Programing,3,8000
+ItoC,Computing,3,8000
+OOP,Programming,3,8000
+English,Arts,2,6000
+Urdu,Arts,1,5000
+Physics,Science,3,7000
+DSA,Computuing,3,7000

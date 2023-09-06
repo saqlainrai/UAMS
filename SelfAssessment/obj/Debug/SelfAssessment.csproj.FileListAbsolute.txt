@@ -1,0 +1,24 @@
+C:\Users\HP\Desktop\Programs\PF05\SelfAssessment\SelfAssessment\bin\Debug\SelfAssessment.exe.config
+C:\Users\HP\Desktop\Programs\PF05\SelfAssessment\SelfAssessment\bin\Debug\SelfAssessment.exe
+C:\Users\HP\Desktop\Programs\PF05\SelfAssessment\SelfAssessment\bin\Debug\SelfAssessment.pdb
+C:\Users\HP\Desktop\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.exe
+C:\Users\HP\Desktop\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.pdb
+C:\Users\HP\Desktop\C# Projects\Programs\PF05\SelfAssessment\SelfAssessment\bin\Debug\SelfAssessment.exe.config
+C:\Users\HP\Desktop\C# Projects\Programs\PF05\SelfAssessment\SelfAssessment\bin\Debug\SelfAssessment.exe
+C:\Users\HP\Desktop\C# Projects\Programs\PF05\SelfAssessment\SelfAssessment\bin\Debug\SelfAssessment.pdb
+C:\Users\HP\Desktop\C# Projects\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C# Projects\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C# Projects\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# Projects\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.exe
+C:\Users\HP\Desktop\C# Projects\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.pdb
+C:\Users\HP\Desktop\pulled\Programs\PF05\SelfAssessment\SelfAssessment\bin\Debug\SelfAssessment.exe.config
+C:\Users\HP\Desktop\pulled\Programs\PF05\SelfAssessment\SelfAssessment\bin\Debug\SelfAssessment.exe
+C:\Users\HP\Desktop\pulled\Programs\PF05\SelfAssessment\SelfAssessment\bin\Debug\SelfAssessment.pdb
+C:\Users\HP\Desktop\pulled\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pulled\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\pulled\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pulled\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.exe
+C:\Users\HP\Desktop\pulled\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.pdb
