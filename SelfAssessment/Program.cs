@@ -19,7 +19,7 @@ namespace SelfAssessment
             List<DegreeProgram> allDegreePrograms = new List<DegreeProgram>();
             List<User> allUsers = new List<User>()
             {
-                new User("a", "1", "Admin") { }
+                new User("admin", "1234", "Admin") { }
             };
 
             // there is no need to return the list from function

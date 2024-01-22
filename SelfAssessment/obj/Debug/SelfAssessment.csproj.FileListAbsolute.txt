@@ -22,3 +22,10 @@ C:\Users\HP\Desktop\pulled\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug
 C:\Users\HP\Desktop\pulled\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\pulled\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.exe
 C:\Users\HP\Desktop\pulled\Programs\PF05\SelfAssessment\SelfAssessment\obj\Debug\SelfAssessment.pdb
+C:\Users\HP\Desktop\UAMS\SelfAssessment\bin\Debug\SelfAssessment.exe.config
+C:\Users\HP\Desktop\UAMS\SelfAssessment\bin\Debug\SelfAssessment.exe
+C:\Users\HP\Desktop\UAMS\SelfAssessment\bin\Debug\SelfAssessment.pdb
+C:\Users\HP\Desktop\UAMS\SelfAssessment\obj\Debug\SelfAssessment.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UAMS\SelfAssessment\obj\Debug\SelfAssessment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UAMS\SelfAssessment\obj\Debug\SelfAssessment.exe
+C:\Users\HP\Desktop\UAMS\SelfAssessment\obj\Debug\SelfAssessment.pdb
